@@ -10,7 +10,7 @@ import { FiBell } from "react-icons/fi";
 import { CgClose } from "react-icons/cg";
 
 import { Context } from "../context/contextApi";
-import Loader from "../shared/loader";
+import Loader from "../shared/Loader";
 import { useContext, useState } from "react";
 
 export default function Header() {
